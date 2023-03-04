@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_4\Fibonachi\bin\Debug\net6.0\Fibonachi.exe
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_4\Fibonachi\bin\Debug\net6.0\Fibonachi.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_4\Fibonachi\bin\Debug\net6.0\Fibonachi.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_4\Fibonachi\bin\Debug\net6.0\Fibonachi.dll
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_4\Fibonachi\bin\Debug\net6.0\Fibonachi.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_4\Fibonachi\obj\Debug\net6.0\Fibonachi.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_4\Fibonachi\obj\Debug\net6.0\Fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_4\Fibonachi\obj\Debug\net6.0\Fibonachi.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_4\Fibonachi\obj\Debug\net6.0\Fibonachi.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_4\Fibonachi\obj\Debug\net6.0\Fibonachi.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_4\Fibonachi\obj\Debug\net6.0\Fibonachi.dll
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_4\Fibonachi\obj\Debug\net6.0\refint\Fibonachi.dll
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_4\Fibonachi\obj\Debug\net6.0\Fibonachi.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_4\Fibonachi\obj\Debug\net6.0\Fibonachi.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_4\Fibonachi\obj\Debug\net6.0\ref\Fibonachi.dll
